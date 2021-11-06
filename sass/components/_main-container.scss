@@ -1,9 +1,4 @@
-.container {
-  width: 1200px;
-  padding-left: 15px;
-  padding-right: 15px;
-  margin: 0 auto;
-}
+@import './_container';
 @import './_logo.scss';
 @import './header/_header-all.scss';
 @import './hero/_hero.scss';
